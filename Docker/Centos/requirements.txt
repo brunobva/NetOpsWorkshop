@@ -1,4 +1,4 @@
-ansible==2.9.13
+ansible==2.9.20
 paramiko
 netmiko
 textfsm
